@@ -18,5 +18,7 @@ namespace AdminPanel.Areas.Admin.Controllers
         {
             return View();
         }
+
+        
     }
 }

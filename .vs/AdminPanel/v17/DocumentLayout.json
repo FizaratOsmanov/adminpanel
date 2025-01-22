@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\example\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\example\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\example\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\example\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\example\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\example\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\example\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\example\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\example\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\example\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\example\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\example\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\example\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\example\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{944FE7AC-3A93-45C5-B208-11AE34539C72}|AdminPanel.csproj|c:\\users\\lenovo\\desktop\\adminpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -73,47 +81,42 @@
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Example\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Example\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T10:25:21.891Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Example\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Example\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T10:24:11.377Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Example\\Register.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Example\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T09:55:29.044Z",
+              "WhenOpened": "2025-01-22T00:10:48.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Example\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Example\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T00:05:59.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -125,7 +128,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Example\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Example\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T10:25:21.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowEYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T09:55:29.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T09:55:11.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -137,20 +177,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "ExampleController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Controllers\\ExampleController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ExampleController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Controllers\\ExampleController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ExampleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:22:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Update.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Example\\Update.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Update.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Example\\Update.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T10:27:42.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T10:27:42.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Example\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Example\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Example\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T10:24:11.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -162,32 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T09:55:11.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExampleController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Controllers\\ExampleController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ExampleController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Controllers\\ExampleController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ExampleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T10:22:43.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -199,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -211,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AdminPanel\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
